@@ -6,9 +6,6 @@
         "name": {
             "type": "string"
         },
-        "type": {
-            "const": "Microsoft.Authorization/policyDefinitions"
-        },
         "properties": {
             "type": "object",
             "properties": {
