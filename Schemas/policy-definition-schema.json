@@ -7,7 +7,6 @@
             "type": "string"
         },
         "properties": {
-            "type": "object",
             "properties": {
                 "displayName": {
                     "type": "string"
